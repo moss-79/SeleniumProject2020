@@ -28,8 +28,10 @@ public class CheckboxesTest {
         }
         BrowserUtils.wait(2);
 
-        checkboxes.get(0).click();
-        if (checkboxes.get(0).isSelected()){
+        WebElement checkbox1 = checkboxes.get(0);
+        checkbox1.click();
+
+        if (checkbox1.isSelected()){
             System.out.println("TEST PASSED"        );
             System.out.println("checkbox #1 is selected");
 
