@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b90c12d-3f78-4a1d-9add-d06d1edbef09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/CheckBoxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/CheckboxesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/RadioButtons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/RadioButtonsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/frames/TestForiFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled/RadioButtons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/tests/isEnabled/RadioButtons.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CheckboxesTest">
+  <component name="RunManager" selected="Application.TestForiFrame">
     <configuration name="CheckBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.automation.tests.isEnabled_isDisplayed_isSelected.CheckBoxes" />
       <module name="SeleniumProject2020" />
@@ -94,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerifyThatElementIsGone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.LocaterAction.VerifyThatElementIsGone" />
+    <configuration name="TestForiFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.frames.TestForiFrame" />
       <module name="SeleniumProject2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.automation.tests.LocaterAction.*" />
+          <option name="PATTERN" value="com.automation.tests.frames.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestForiFrame" />
         <item itemvalue="Application.CheckboxesTest" />
         <item itemvalue="Application.CheckBoxes" />
         <item itemvalue="Application.RadioButtonsTest" />
         <item itemvalue="Application.RadioButtons" />
-        <item itemvalue="Application.VerifyThatElementIsGone" />
       </list>
     </recent_temporary>
   </component>
@@ -128,25 +120,48 @@
       <option name="presentableId" value="Default" />
       <updated>1590310028091</updated>
     </task>
+    <task id="LOCAL-00001" summary="CheckBoxes">
+      <created>1590934952761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590934952762</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CheckBoxes">
+      <created>1590935200608</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590935200608</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CheckBoxes" />
+    <option name="LAST_COMMIT_MESSAGE" value="CheckBoxes" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590934135667">
+    <state x="571" y="88" key="CommitChangelistDialog2" timestamp="1590935199871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590934135667" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590934135667">
+    <state x="571" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590935199871" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590937549728">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590934135667" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590934135667">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590937549728" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590937549727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590934135667" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590934135667">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590937549727" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590937549727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590934135667" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590937549727" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590937549728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590937549728" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1590933427091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -163,6 +178,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590933427091" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590934956437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590934956437" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
