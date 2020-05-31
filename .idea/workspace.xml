@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b90c12d-3f78-4a1d-9add-d06d1edbef09" name="Default Changelist" comment="" />
+    <list default="true" id="2b90c12d-3f78-4a1d-9add-d06d1edbef09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/CheckBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/CheckboxesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/RadioButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/RadioButtonsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled/RadioButtons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/tests/isEnabled/RadioButtons.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +25,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cLZqxp6M1ggRv9K5lohM8cuR0z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -22,14 +39,54 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.RadioButtons">
-    <configuration name="RadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.isEnabled.RadioButtons" />
+  <component name="RunManager" selected="Application.CheckboxesTest">
+    <configuration name="CheckBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.isEnabled_isDisplayed_isSelected.CheckBoxes" />
       <module name="SeleniumProject2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.automation.tests.isEnabled.*" />
+          <option name="PATTERN" value="com.automation.tests.isEnabled_isDisplayed_isSelected.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckboxesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.isEnabled_isDisplayed_isSelected.CheckboxesTest" />
+      <module name="SeleniumProject2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.isEnabled_isDisplayed_isSelected.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.isEnabled_isDisplayed_isSelected.RadioButtons" />
+      <module name="SeleniumProject2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.isEnabled_isDisplayed_isSelected.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioButtonsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.isEnabled_isDisplayed_isSelected.RadioButtonsTest" />
+      <module name="SeleniumProject2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.isEnabled_isDisplayed_isSelected.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,38 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WarmUp_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.LocaterAction.WarmUp_" />
-      <module name="SeleniumProject2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.tests.LocaterAction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="findElementsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.LocaterAction.findElementsTest" />
-      <module name="SeleniumProject2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.tests.LocaterAction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckboxesTest" />
+        <item itemvalue="Application.CheckBoxes" />
+        <item itemvalue="Application.RadioButtonsTest" />
         <item itemvalue="Application.RadioButtons" />
         <item itemvalue="Application.VerifyThatElementIsGone" />
-        <item itemvalue="Application.findElementsTest" />
-        <item itemvalue="Application.WarmUp_" />
       </list>
     </recent_temporary>
   </component>
@@ -99,38 +131,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590354737560">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590934135667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590354737560" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590354737560">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590934135667" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590934135667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590354737560" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590354737560">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590934135667" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590934135667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590354737560" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590354737560">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590934135667" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590934135667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590354737560" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1590353257933">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590934135667" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1590933427091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590353257933" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1590353257933">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590933427091" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1590933427091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590353257933" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1590353257933">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590933427091" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1590933427091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590353257933" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1590353257933">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590933427091" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1590933427091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590353257933" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590933427091" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -139,6 +171,36 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/automation/tests/LocaterAction/findElementsTest.java</url>
           <line>31</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/CheckBoxes.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/CheckBoxes.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/CheckBoxes.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/CheckBoxes.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/CheckBoxes.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/automation/tests/isEnabled_isDisplayed_isSelected/CheckBoxes.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
