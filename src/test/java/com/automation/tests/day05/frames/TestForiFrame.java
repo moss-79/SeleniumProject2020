@@ -1,4 +1,4 @@
-package com.automation.tests.frames;
+package com.automation.tests.day05.frames;
 
 import com.automation.utilities.BrowserUtils;
 import io.github.bonigarcia.wdm.WebDriverManager;

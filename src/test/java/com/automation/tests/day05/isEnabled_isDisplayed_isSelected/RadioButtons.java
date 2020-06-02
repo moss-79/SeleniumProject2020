@@ -1,4 +1,4 @@
-package com.automation.tests.isEnabled_isDisplayed_isSelected;
+package com.automation.tests.day05.isEnabled_isDisplayed_isSelected;
 
 import com.automation.utilities.BrowserUtils;
 import io.github.bonigarcia.wdm.WebDriverManager;
